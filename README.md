@@ -1,5 +1,5 @@
 # Python-ML-DS-Notebooks
-Practice notebooks for all my MOOCs in one place. 
+Practice notebooks for all my DS/ML MOOCs in one place. 
 
 List of Courses : 
 
